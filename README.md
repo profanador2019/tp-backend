@@ -1,4 +1,19 @@
-# TP Backend TTADS
+﻿# TP Backend TTADS
+
+<b>Descripción inicial:</b>
+<br>La app "Play with me" permite a un usuario buscar partidos de futbol amateur en la localidad o zona donde se encuentre, dichos partidos seran registrados por un anfitrión para realizar la convocatoria de jugadores para completar las vacantes. Los partidos se llevaran a cabo en instituciones deportivas que disponen de distintos tipos de canchas (futbol 5, futbol 7, futbol 11, etc) y que seran mostradas por geolocalización a los usuarios. Una vez finalizado el evento a los jugadores registrados en la app se les permitirá realizar una reseña del resto de los jugadores del partido (cumplimiento, puntualidad, habilidades).
+<p><b>Cina, Juan Manuel - 40799:</b>
+
+
+
+
+
+
+
+<p><b>Modelo del dominio inicial:</b>
+
+<br>![Md](./img/md_tpttads.png)
+
 
 ## 1 - Enunciado
 
